@@ -1,0 +1,971 @@
+{
+  "ablativo assoluto": [
+    {
+      "q": "Individua l’ablativo assoluto: 'Urbe capta, cives fugerunt.'",
+      "opts": [
+        "Urbe capta",
+        "cives",
+        "fugerunt",
+        "Urbe"
+      ],
+      "ans": 0,
+      "spiega": "Nome + participio in ablativo; valore temporale/causale."
+    },
+    {
+      "q": "Qual è la struttura tipica dell’ablativo assoluto?",
+      "opts": [
+        "Dativo + participio",
+        "Genitivo + participio",
+        "Ablativo (nome/pronome) + participio",
+        "Accusativo + infinito"
+      ],
+      "ans": 2,
+      "spiega": "Costruzione autonoma: ablativo di nome/pronome + participio."
+    },
+    {
+      "q": "Scegli la resa migliore: 'Hoste superato, pax facta est.'",
+      "opts": [
+        "Poiché il nemico fu vinto",
+        "Affinché il nemico fosse vinto",
+        "Sebbene il nemico fosse vinto",
+        "Se il nemico sarà vinto"
+      ],
+      "ans": 0,
+      "spiega": "Spesso si rende con temporale/causale in italiano."
+    },
+    {
+      "q": "Quale NON è tipico per l’ablativo assoluto?",
+      "opts": [
+        "Valore temporale",
+        "Valore causale",
+        "Valore finale",
+        "Valore concessivo"
+      ],
+      "ans": 2,
+      "spiega": "La finale non è normalmente resa da ablativo assoluto."
+    },
+    {
+      "q": "Trova l’ablativo assoluto: 'Signo dato milites procedunt.'",
+      "opts": [
+        "Signo dato",
+        "milites",
+        "procedunt",
+        "dato"
+      ],
+      "ans": 0,
+      "spiega": "‘signo dato’ = ablativo assoluto con participio perfetto passivo."
+    }
+  ],
+  "participio congiunto": [
+    {
+      "q": "Individua il participio congiunto: 'Hostibus victis, Romani triumphaverunt.'",
+      "opts": [
+        "Hostibus",
+        "victis",
+        "Romani",
+        "triumphaverunt"
+      ],
+      "ans": 1,
+      "spiega": "Participio perfetto passivo concordato con ‘hostibus’."
+    },
+    {
+      "q": "Il participio congiunto concorda con:",
+      "opts": [
+        "Il verbo della reggente",
+        "Un nome o pronome a cui si riferisce",
+        "L’oggetto",
+        "Nessuno, è invariabile"
+      ],
+      "ans": 1,
+      "spiega": "Concorda in genere, numero e caso con il nome/pronome."
+    },
+    {
+      "q": "Scegli la migliore traduzione: 'Caesare duce, vicimus.'",
+      "opts": [
+        "Poiché Cesare è condottiero, vincemmo",
+        "Con Cesare comandante, vincemmo",
+        "Affinché Cesare fosse condottiero, vincemmo",
+        "Sebbene Cesare fosse condottiero, vincemmo"
+      ],
+      "ans": 1,
+      "spiega": "Valore strumentale/temporale: ‘avendo come comandante Cesare’."
+    },
+    {
+      "q": "Quale frase contiene un participio congiunto?",
+      "opts": [
+        "Urbs capta est",
+        "Urbe capta",
+        "Magistro laudante discipuli gaudent",
+        "Puellae laetae sunt"
+      ],
+      "ans": 2,
+      "spiega": "Participio concordato col nome in un costrutto non assoluto."
+    },
+    {
+      "q": "Spesso il participio congiunto rende in italiano:",
+      "opts": [
+        "Una subordinata causale/temporale",
+        "Una interrogativa",
+        "Una relativa impropria",
+        "Una finale esplicita"
+      ],
+      "ans": 0,
+      "spiega": "PC è polivalente; spesso si traduce con temporale/causale."
+    }
+  ],
+  "perifrastica attiva": [
+    {
+      "q": "La perifrastica attiva esprime soprattutto:",
+      "opts": [
+        "Abitudine",
+        "Intenzione/necessità",
+        "Possibilità",
+        "Fatto compiuto"
+      ],
+      "ans": 1,
+      "spiega": "Gerundivo + sum in valore attivo può esprimere intenzione/proposito."
+    },
+    {
+      "q": "Individua la perifrastica attiva:",
+      "opts": [
+        "Scripturus sum",
+        "Scribendum est",
+        "Scripsi",
+        "Scribam"
+      ],
+      "ans": 0,
+      "spiega": "Participio futuro + sum = perifrastica attiva (intenzione/ imminenza)."
+    },
+    {
+      "q": "Traduci 'venturus erat' nel modo più naturale:",
+      "opts": [
+        "Doveva essere venuto",
+        "Stava per venire/aveva intenzione di venire",
+        "Era venuto",
+        "Potrebbe venire"
+      ],
+      "ans": 1,
+      "spiega": "Participio futuro + imperfetto di sum = intenzione nel passato."
+    },
+    {
+      "q": "Quale forma NON è perifrastica attiva:",
+      "opts": [
+        "Facturus sum",
+        "Laudaturus eram",
+        "Agenda sunt",
+        "Venturus est"
+      ],
+      "ans": 2,
+      "spiega": "‘Agenda sunt’ è perifrastica passiva (necessità)."
+    },
+    {
+      "q": "‘Scripturus eram’ indica:",
+      "opts": [
+        "Intenzione nel passato",
+        "Obbligo nel passato",
+        "Abitudine nel passato",
+        "Evento compiuto"
+      ],
+      "ans": 0,
+      "spiega": "Perifrastica attiva all’imperfetto."
+    }
+  ],
+  "perifrastica passiva": [
+    {
+      "q": "Riconosci la perifrastica passiva:",
+      "opts": [
+        "Nobis faciendum est",
+        "Nos facere possumus",
+        "Nos facimus",
+        "Facere soleo"
+      ],
+      "ans": 0,
+      "spiega": "Gerundivo + sum con dativo dell’agente: ‘deve essere fatto da noi’."
+    },
+    {
+      "q": "La perifrastica passiva esprime:",
+      "opts": [
+        "Intenzione",
+        "Obbligo/necessità",
+        "Possibilità",
+        "Abitudine"
+      ],
+      "ans": 1,
+      "spiega": "Indica necessità o dovere di compiere l’azione."
+    },
+    {
+      "q": "In 'mihi faciendum est' 'mihi' è:",
+      "opts": [
+        "Dativo di possesso",
+        "Dativo d’agente",
+        "Dativo di svantaggio",
+        "Dativo etico"
+      ],
+      "ans": 1,
+      "spiega": "Nella perifrastica passiva l’agente è espresso al dativo."
+    },
+    {
+      "q": "Quale corrisponde alla perifrastica passiva di 'laudare'?",
+      "opts": [
+        "Laudaturus sum",
+        "Laudandum est",
+        "Laudavi",
+        "Laudabam"
+      ],
+      "ans": 1,
+      "spiega": "Gerundivo + sum: ‘si deve lodare/è da lodare’."
+    },
+    {
+      "q": "La resa idiomatica italiana di 'agenda sunt' è:",
+      "opts": [
+        "Devono essere fatte",
+        "Si faranno",
+        "Si fecero",
+        "Si potrebbero fare"
+      ],
+      "ans": 0,
+      "spiega": "Necessità/obbligo oggettivo."
+    }
+  ],
+  "cum narrativo": [
+    {
+      "q": "Il 'cum' narrativo regge di norma:",
+      "opts": [
+        "Congiuntivo",
+        "Indicativo",
+        "Infinito",
+        "Imperativo"
+      ],
+      "ans": 0,
+      "spiega": "Nel racconto storico: cum + congiuntivo."
+    },
+    {
+      "q": "Valore tipico del 'cum' narrativo:",
+      "opts": [
+        "Finale",
+        "Temporale-causale",
+        "Condizionale",
+        "Avversativo"
+      ],
+      "ans": 1,
+      "spiega": "Spesso con sfumature causali/temporali in narrazione."
+    },
+    {
+      "q": "Scegli l’opzione con 'cum narrativo':",
+      "opts": [
+        "Cum venis, laetor",
+        "Cum venisset, omnes tacuerunt",
+        "Cum veniet, tacebis",
+        "Cum veni, gaudeo"
+      ],
+      "ans": 1,
+      "spiega": "Congiuntivo perfetto/imperfetto in contesto storico."
+    },
+    {
+      "q": "Traduzione naturale: 'Cum hostes appropinquarent, milites parati erant.'",
+      "opts": [
+        "Poiché i nemici si avvicinavano…",
+        "Affinché i nemici si avvicinassero…",
+        "Se i nemici si avvicineranno…",
+        "Benché i nemici si avvicinassero…"
+      ],
+      "ans": 0,
+      "spiega": "Valore causale/temporale."
+    },
+    {
+      "q": "Quale NON è 'cum narrativo'?",
+      "opts": [
+        "Cum Caesar venit, gaudeo",
+        "Cum Caesar venisset, tacuerunt",
+        "Cum pugnarent, timor crescit",
+        "Cum urbs capta esset, fugerunt"
+      ],
+      "ans": 0,
+      "spiega": "Indicativo presente → cum temporale, non narrativo."
+    }
+  ],
+  "proposizione finale": [
+    {
+      "q": "La finale è introdotta tipicamente da:",
+      "opts": [
+        "ut/ne + congiuntivo",
+        "quod + indicativo",
+        "cum + congiuntivo",
+        "dum + indicativo"
+      ],
+      "ans": 0,
+      "spiega": "Scopo positivo con ‘ut’, negativo con ‘ne’."
+    },
+    {
+      "q": "Scegli la finale:",
+      "opts": [
+        "Tam fortis fuit ut vinceret",
+        "Venit ut videat",
+        "Quamquam venit, tacuit",
+        "Si venit, tace"
+      ],
+      "ans": 1,
+      "spiega": "‘ut videat’ esprime scopo."
+    },
+    {
+      "q": "Traduci 'ne' in contesto finale:",
+      "opts": [
+        "affinché non",
+        "se non",
+        "nonostante",
+        "poiché non"
+      ],
+      "ans": 0,
+      "spiega": "Finale negativa."
+    },
+    {
+      "q": "Dopo verbi di 'curare, providere' la finale spesso usa:",
+      "opts": [
+        "ut/ne + congiuntivo",
+        "quod + indicativo",
+        "Accusativo + infinito",
+        "quin + congiuntivo"
+      ],
+      "ans": 0,
+      "spiega": "Standard finale."
+    },
+    {
+      "q": "Quale è una resa idiomatica corretta di finale?",
+      "opts": [
+        "Con il fine di",
+        "Benché",
+        "Sebbene",
+        "Mentre"
+      ],
+      "ans": 0,
+      "spiega": "Scopo/intentionalità."
+    }
+  ],
+  "proposizione consecutiva": [
+    {
+      "q": "Segnale tipico in reggente per la consecutiva:",
+      "opts": [
+        "tam/ita/tantus… ut",
+        "ut/ne",
+        "cum",
+        "quod"
+      ],
+      "ans": 0,
+      "spiega": "Indicatori d’intensità + ut + congiuntivo."
+    },
+    {
+      "q": "Scegli la consecutiva:",
+      "opts": [
+        "Tam fortis fuit ut vinceret",
+        "Venit ut videat",
+        "Quamquam venit, tacuit",
+        "Si venit, tace"
+      ],
+      "ans": 0,
+      "spiega": "Consecutiva di risultato."
+    },
+    {
+      "q": "La consecutiva negativa usa spesso:",
+      "opts": [
+        "ne",
+        "ut non",
+        "quin",
+        "quominus"
+      ],
+      "ans": 1,
+      "spiega": "‘ut non’ introduce il risultato negativo."
+    },
+    {
+      "q": "Traduzione naturale: 'Tanta fuit vis ut urbem caperent.'",
+      "opts": [
+        "Affinché prendessero la città",
+        "Di modo che presero la città",
+        "Per prendere la città",
+        "Sebbene prendessero la città"
+      ],
+      "ans": 1,
+      "spiega": "Risultato (consecutiva)."
+    },
+    {
+      "q": "Quale NON è tipico della consecutiva:",
+      "opts": [
+        "Congiuntivo",
+        "Segnali in reggente",
+        "Accusativo + infinito",
+        "‘ut’"
+      ],
+      "ans": 2,
+      "spiega": "Accusativo + infinito è dell’oggettiva/infinitiva."
+    }
+  ],
+  "proposizione completiva dichiarativa": [
+    {
+      "q": "La completiva dichiarativa può essere introdotta da:",
+      "opts": [
+        "quod/quia",
+        "ut",
+        "cum",
+        "si"
+      ],
+      "ans": 0,
+      "spiega": "Dopo verbi dichiarativi/di opinione."
+    },
+    {
+      "q": "Spesso la completiva dichiarativa usa:",
+      "opts": [
+        "Indicativo o congiuntivo secondo lo stile",
+        "Solo congiuntivo",
+        "Solo indicativo",
+        "Infinito futuro"
+      ],
+      "ans": 0,
+      "spiega": "Scelta stilistica/autore."
+    },
+    {
+      "q": "Quale frase è una completiva dichiarativa:",
+      "opts": [
+        "Dico quod venisti",
+        "Ut venias rogo",
+        "Ut veni, gaudeo",
+        "Cum venias, taceo"
+      ],
+      "ans": 0,
+      "spiega": "‘quod venisti’ completa il senso del verbo ‘dico’."
+    },
+    {
+      "q": "Nei classici si trova anche:",
+      "opts": [
+        "Accusativo + infinito",
+        "Gerundivo + sum",
+        "Ablativo assoluto",
+        "Participio futuro"
+      ],
+      "ans": 0,
+      "spiega": "Alternativa frequente per riportare dichiarazioni."
+    },
+    {
+      "q": "La resa italiana naturale spesso è:",
+      "opts": [
+        "Che + verbo",
+        "Di + infinito",
+        "Per + infinito",
+        "Affinché + congiuntivo"
+      ],
+      "ans": 0,
+      "spiega": "‘che’ + indicativo/congiuntivo secondo contesto."
+    }
+  ],
+  "proposizione completiva volitiva": [
+    {
+      "q": "La completiva volitiva segue verbi di:",
+      "opts": [
+        "Volontà/ordine/preghiera",
+        "Percezione",
+        "Dichiarazione",
+        "Timore"
+      ],
+      "ans": 0,
+      "spiega": "Es. rogo, impero, volo, cupio…"
+    },
+    {
+      "q": "Costruzione tipica:",
+      "opts": [
+        "ut/ne + congiuntivo",
+        "quod/quia + indicativo",
+        "Accusativo + infinito",
+        "Ablativo assoluto"
+      ],
+      "ans": 0,
+      "spiega": "Standard della volitiva."
+    },
+    {
+      "q": "Per la volitiva negativa si usa:",
+      "opts": [
+        "ne",
+        "ut non",
+        "quin",
+        "quominus"
+      ],
+      "ans": 0,
+      "spiega": "‘ne’ esprime il divieto/evitamento dell’azione."
+    },
+    {
+      "q": "Scegli la volitiva:",
+      "opts": [
+        "Dico quod venias",
+        "Rogo ut venias",
+        "Narro ut venias",
+        "Audio te venire"
+      ],
+      "ans": 1,
+      "spiega": "‘rogo’ regge volitiva con ut + congiuntivo."
+    },
+    {
+      "q": "Traduci 'imperat ne exeant':",
+      "opts": [
+        "Ordina che non escano",
+        "Dice che non escono",
+        "Crede che non escano",
+        "Affinché non escano"
+      ],
+      "ans": 0,
+      "spiega": "Volitiva negativa con ‘ne’."
+    }
+  ],
+  "proposizione infinitiva (oggettiva)": [
+    {
+      "q": "Struttura tipica dell’oggettiva latina:",
+      "opts": [
+        "Dativo + infinito",
+        "Accusativo + infinito",
+        "Ablativo + participio",
+        "Nominativo + infinito"
+      ],
+      "ans": 1,
+      "spiega": "Accusativo (soggetto) + infinito (verbo)."
+    },
+    {
+      "q": "Quale è un’oggettiva:",
+      "opts": [
+        "Audio te venire",
+        "Ut venias rogo",
+        "Cum venisset, tacuit",
+        "Tam fortis ut vinceret"
+      ],
+      "ans": 0,
+      "spiega": "Percezione + Accusativo + Infinito."
+    },
+    {
+      "q": "Traduzione naturale: 'Dicit hostes advenire.'",
+      "opts": [
+        "Dice che i nemici stanno arrivando",
+        "Dice affinché i nemici arrivino",
+        "Dice poiché i nemici arrivano",
+        "Dice se i nemici arriveranno"
+      ],
+      "ans": 0,
+      "spiega": "Oggettiva resa con ‘che’ + indicativo italiano."
+    },
+    {
+      "q": "Con verbi di dire/pensare/percepire si usa spesso:",
+      "opts": [
+        "Accusativo + infinito",
+        "Ut + congiuntivo",
+        "Quod + congiuntivo",
+        "Cum + congiuntivo"
+      ],
+      "ans": 0,
+      "spiega": "Costruzione tipica dell’oggettiva."
+    },
+    {
+      "q": "Il soggetto dell’infinitiva sta:",
+      "opts": [
+        "In nominativo",
+        "In accusativo",
+        "In genitivo",
+        "In ablativo"
+      ],
+      "ans": 1,
+      "spiega": "Accusativo soggetto dell’infinito."
+    }
+  ],
+  "periodo ipotetico": [
+    {
+      "q": "Nella protasi del periodo ipotetico potenziale si usa spesso:",
+      "opts": [
+        "Congiuntivo",
+        "Indicativo",
+        "Infinito",
+        "Imperativo"
+      ],
+      "ans": 0,
+      "spiega": "Congiuntivo esprime possibilità/ipotesi."
+    },
+    {
+      "q": "Quale è un’ipotetica irreale del presente:",
+      "opts": [
+        "Si veniat, gaudeo",
+        "Si veniret, gauderem",
+        "Si venisset, gauvissem",
+        "Si venit, gaudeo"
+      ],
+      "ans": 1,
+      "spiega": "Congiuntivo imperfetto in protasi e apodosi potenziale/irreale presente."
+    },
+    {
+      "q": "Quale è un’ipotetica irreale del passato:",
+      "opts": [
+        "Si veniret, gauderem",
+        "Si venisset, gauvissem",
+        "Si venit, gaudeo",
+        "Si veniet, gaudebo"
+      ],
+      "ans": 1,
+      "spiega": "Congiuntivo piuccheperfetto in protasi/apodosi."
+    },
+    {
+      "q": "La realtà (I tipo) usa tipicamente:",
+      "opts": [
+        "Indicativo",
+        "Congiuntivo",
+        "Infinito",
+        "Participio"
+      ],
+      "ans": 0,
+      "spiega": "Se… (indicativo), allora… (indicativo)."
+    },
+    {
+      "q": "‘Nisi’ in ipotetica significa:",
+      "opts": [
+        "Affinché non",
+        "Se non",
+        "Benché",
+        "Poiché"
+      ],
+      "ans": 1,
+      "spiega": "Congiunzione condizionale negativa."
+    }
+  ],
+  "gerundio": [
+    {
+      "q": "Il gerundio latino è:",
+      "opts": [
+        "Aggettivo verbale",
+        "Sostantivo verbale",
+        "Participio futuro",
+        "Nome deverbale"
+      ],
+      "ans": 1,
+      "spiega": "Gerundium = sostantivo verbale, solo singolare, casi obliqui."
+    },
+    {
+      "q": "Forma assente per il gerundio:",
+      "opts": [
+        "Genitivo",
+        "Dativo",
+        "Ablativo",
+        "Nominativo"
+      ],
+      "ans": 3,
+      "spiega": "Il gerundio non ha nominativo: si usa il supino/infinitiva/‘ad’ + accusativo."
+    },
+    {
+      "q": "Costruzione finale con gerundio:",
+      "opts": [
+        "ad + accusativo del gerundio",
+        "per + ablativo",
+        "cum + gerundio",
+        "in + nominativo"
+      ],
+      "ans": 0,
+      "spiega": "‘ad legendum’ = per leggere."
+    },
+    {
+      "q": "Quale è gerundio:",
+      "opts": [
+        "legendus",
+        "legendi",
+        "lecturus",
+        "lectus"
+      ],
+      "ans": 1,
+      "spiega": "‘legendi’ è forma del gerundio (genitivo)."
+    },
+    {
+      "q": "Il gerundio spesso si alterna con:",
+      "opts": [
+        "Gerundivo",
+        "Participio perfetto",
+        "Infinito presente",
+        "Supino in -u"
+      ],
+      "ans": 0,
+      "spiega": "Sostituito da gerundivo con nome oggetto (causa attractionis)."
+    }
+  ],
+  "gerundivo": [
+    {
+      "q": "Il gerundivo è:",
+      "opts": [
+        "Sostantivo verbale",
+        "Aggettivo verbale di necessità",
+        "Participio presente",
+        "Participio futuro"
+      ],
+      "ans": 1,
+      "spiega": "Indica dovere/necessità."
+    },
+    {
+      "q": "Costruzione cauzativa con gerundivo:",
+      "opts": [
+        "Ad + accusativo",
+        "Accusativo + infinito",
+        "Gerundivo concordato col nome",
+        "Supino"
+      ],
+      "ans": 2,
+      "spiega": "Spesso al posto del gerundio con oggetto."
+    },
+    {
+      "q": "Perifrastica passiva contiene:",
+      "opts": [
+        "Gerundivo + sum",
+        "Participio futuro + sum",
+        "Infinito + sum",
+        "Participio perfetto + sum"
+      ],
+      "ans": 0,
+      "spiega": "Struttura di necessità/obbligo."
+    },
+    {
+      "q": "Quale è gerundivo di 'laudare':",
+      "opts": [
+        "laudans",
+        "laudandus",
+        "laudaturus",
+        "laudatus"
+      ],
+      "ans": 1,
+      "spiega": "Aggettivo in -ndus."
+    },
+    {
+      "q": "Scegli l’uso corretto del gerundivo:",
+      "opts": [
+        "Liber legendum est mihi",
+        "Liber legendo est mihi",
+        "Liber legendus est mihi",
+        "Liber legens est mihi"
+      ],
+      "ans": 2,
+      "spiega": "Perifrastica passiva con dativo d’agente."
+    }
+  ],
+  "supino": [
+    {
+      "q": "Il supino in -um si usa:",
+      "opts": [
+        "Dopo verbi di moto per lo scopo",
+        "Con valore causale",
+        "Per concessione",
+        "Come perifrastica attiva"
+      ],
+      "ans": 0,
+      "spiega": "Es. 'venit visum'."
+    },
+    {
+      "q": "Il supino in -u esprime:",
+      "opts": [
+        "Scopo",
+        "Valore in -u (ablativo) dopo aggettivi",
+        "Condizione",
+        "Volontà"
+      ],
+      "ans": 1,
+      "spiega": "Dopo aggettivi come 'facile, mirabile'."
+    },
+    {
+      "q": "Quale è un supino in -um:",
+      "opts": [
+        "visum",
+        "visu",
+        "videns",
+        "videndus"
+      ],
+      "ans": 0,
+      "spiega": "‘visum’ = supino in -um."
+    },
+    {
+      "q": "‘Dictu’ è:",
+      "opts": [
+        "Supino in -u",
+        "Gerundio",
+        "Gerundivo",
+        "Participio"
+      ],
+      "ans": 0,
+      "spiega": "Supino in -u con valore di rispetto/relazione."
+    },
+    {
+      "q": "Scegli l’uso corretto:",
+      "opts": [
+        "Ierunt rogatu",
+        "Ierunt rogatum",
+        "Ierunt rogandi",
+        "Ierunt rogando"
+      ],
+      "ans": 1,
+      "spiega": "Moto a luogo + supino in -um per scopo."
+    }
+  ],
+  "verbi deponenti": [
+    {
+      "q": "I deponenti hanno:",
+      "opts": [
+        "Forma attiva, sign. attivo",
+        "Forma passiva, sign. passivo",
+        "Forma passiva, sign. attivo",
+        "Solo imperativo"
+      ],
+      "ans": 2,
+      "spiega": "Es. loquor = parlo."
+    },
+    {
+      "q": "Quale è deponente:",
+      "opts": [
+        "laudo",
+        "video",
+        "loquor",
+        "lego"
+      ],
+      "ans": 2,
+      "spiega": "Deponente, 3ª coniugazione."
+    },
+    {
+      "q": "Il perfetto dei deponenti è:",
+      "opts": [
+        "Attivo",
+        "Passivo morfologico con significato attivo",
+        "Solo congiuntivo",
+        "Solo infinito"
+      ],
+      "ans": 1,
+      "spiega": "Morfologia passiva, semantica attiva."
+    },
+    {
+      "q": "Traduci 'secutus sum':",
+      "opts": [
+        "Sono seguito",
+        "Seguii/ho seguito",
+        "Sarò seguito",
+        "Seguivo"
+      ],
+      "ans": 1,
+      "spiega": "Perfetto deponente con valore attivo."
+    },
+    {
+      "q": "Quale NON è deponente:",
+      "opts": [
+        "hortor",
+        "proficiscor",
+        "loquor",
+        "laudo"
+      ],
+      "ans": 3,
+      "spiega": "‘laudo’ è attivo regolare."
+    }
+  ],
+  "verbi semideponenti": [
+    {
+      "q": "I semideponenti hanno:",
+      "opts": [
+        "Forma attiva in tutti i tempi",
+        "Passiva in tutti i tempi",
+        "Attiva nei tempi del presente, passiva nei tempi del perfetto",
+        "Il contrario dei deponenti"
+      ],
+      "ans": 2,
+      "spiega": "Es. audeo, ausus sum."
+    },
+    {
+      "q": "Quale è semideponente:",
+      "opts": [
+        "gaudeo, gavisus sum",
+        "video, vidi",
+        "sum, fui",
+        "amo, amavi"
+      ],
+      "ans": 0,
+      "spiega": "Gaudeo è semideponente."
+    },
+    {
+      "q": "‘Fidus sum ausus’ corrisponde a:",
+      "opts": [
+        "Ho osato",
+        "Oserei",
+        "Avevo osato",
+        "Osavo"
+      ],
+      "ans": 0,
+      "spiega": "Perfetto semideponente = valore attivo."
+    },
+    {
+      "q": "Quale NON è semideponente:",
+      "opts": [
+        "soleo, solitus sum",
+        "audeo, ausus sum",
+        "fio, factus sum",
+        "laudo, laudavi"
+      ],
+      "ans": 3,
+      "spiega": "‘laudo’ è attivo regolare."
+    },
+    {
+      "q": "I semideponenti appartengono spesso alle coniugazioni:",
+      "opts": [
+        "2ª",
+        "3ª",
+        "4ª",
+        "Variabile, ma molti in 2ª"
+      ],
+      "ans": 3,
+      "spiega": "Distribuzione non esclusiva ma ricorrente."
+    }
+  ],
+  "doppio dativo": [
+    {
+      "q": "Il doppio dativo combina:",
+      "opts": [
+        "Dativo di possesso + dativo di vantaggio/svantaggio",
+        "Dativo agente + dativo possesso",
+        "Dativo finale + dativo di possesso",
+        "Dativo finale + dativo di vantaggio/svantaggio"
+      ],
+      "ans": 3,
+      "spiega": "Es. ‘auxilio esse alicui’."
+    },
+    {
+      "q": "Scegli il doppio dativo:",
+      "opts": [
+        "Librum do amico",
+        "Auxilio est militibus",
+        "Cum amicis venio",
+        "Puer est bonus"
+      ],
+      "ans": 1,
+      "spiega": "‘essere di aiuto a…’ finale + vantaggio."
+    },
+    {
+      "q": "Traduci 'curae esse' correttamente:",
+      "opts": [
+        "Essere cura di/ preoccupazione per",
+        "Essere curato",
+        "Curare qualcuno",
+        "Essere caro a"
+      ],
+      "ans": 0,
+      "spiega": "Dativo finale ‘curae’."
+    },
+    {
+      "q": "Quale NON è dativo finale tipico:",
+      "opts": [
+        "auxilio",
+        "praesidio",
+        "usui",
+        "urbis"
+      ],
+      "ans": 3,
+      "spiega": "‘urbis’ è genitivo."
+    },
+    {
+      "q": "Schema del doppio dativo:",
+      "opts": [
+        "Esse + dativo finale + dativo di riferimento",
+        "Esse + genitivo + ablativo",
+        "Fieri + accusativo + dativo",
+        "Dare + dativo + nominativo"
+      ],
+      "ans": 0,
+      "spiega": "Verbo ‘sum’ + due dativi funzionali."
+    }
+  ]
+}
