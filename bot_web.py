@@ -40,15 +40,15 @@ user_state: Dict[int, Dict[str, Any]] = defaultdict(lambda: {
 
 def make_keyboard(options):
     return InlineKeyboardMarkup([
-        [InlineKeyboardButton(f"🅰️ {options[0]}", callback_data="0")],
-        [InlineKeyboardButton(f"🅱️ {options[1]}", callback_data="1")],
+        [InlineKeyboardButton(f"🅰 {options[0]}", callback_data="0")],
+        [InlineKeyboardButton(f"🅱 {options[1]}", callback_data="1")],
         [InlineKeyboardButton(f"🅲️ {options[2]}", callback_data="2")],
         [InlineKeyboardButton(f"🅳️ {options[3]}", callback_data="3")],
     ])
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "Ciao! Sono AeolusDonatus_bot 🌬📜 (modalità webhook su Render)\n"
+        "Ciao! Sono AeliusDonatus_bot👨‍🏫​📜\n"
         "Scrivi un argomento (es. 'ablativo assoluto') oppure usa /topics.\n"
         "Poi invia /quiz. Comandi: /help /score /stop"
     )
