@@ -1,10 +1,12 @@
 services:
-  - type: worker
+  - type: web
     name: aeolusdonatus-bot
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
-    startCommand: "python bot.py"
+    startCommand: "python bot_web.py"
     envVars:
       - key: TELEGRAM_BOT_TOKEN
-        sync: false   # lo imposterai dalla dashboard
+        sync: false
+      - key: PUBLIC_URL
+        sync: false
